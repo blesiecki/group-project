@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "319879909553",
+    "firebase_url": "https://group-project-5356f.firebaseio.com",
+    "project_id": "group-project-5356f",
+    "storage_bucket": "group-project-5356f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319879909553:android:68f92a906f187102",
+        "android_client_info": {
+          "package_name": "ie.lesieckimycit.bartosz.groupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319879909553-36fmc672jog1v1t8a4htv9l7o14bmvne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.lesieckimycit.bartosz.groupproject",
+            "certificate_hash": "8ad8e66c93b9c7c3db21fb1e91adbbe160928f52"
+          }
+        },
+        {
+          "client_id": "319879909553-jrifs7hhehttd3efegc1bmsfkf70t4cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcg6fA9g66R6qNDhgjCcfF82z-RgBBFVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319879909553-jrifs7hhehttd3efegc1bmsfkf70t4cj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319879909553-p05vg1ealdc7innhq6ll21vd6pnqtj92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bartosz.lesiecki.transportAI"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
